@@ -5,4 +5,4 @@
 - 📫 How to reach me --> https://www.linkedin.com/in/adittya-saha-nov112002/
 - 😄 Pronouns: Laptop's BUG
 - ⚡ Fun fact: I Love to Memorise Codes 😄😄😄
-![AI Developer Animation](https://path-to-your-gif-or-svg-file)
+![AI Developer Animation]([https://path-to-your-gif-or-svg-file](https://lottiefiles.com/free-animation/cloud-robotics-abstract-6ivsFHfleF))
