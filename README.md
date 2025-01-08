@@ -22,19 +22,19 @@
 
 ### 🌐 **Connect with Me**
 <p align="left">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/adittya-saha-nov112002/" target="_blank">
+  <a href="https://www.linkedin.com/in/adittya-saha-nov112002/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/https://www.facebook.com/armster.saha" target="blank">
+  <a href="https://www.facebook.com/armster.saha" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/armstersaha/?hl=en" target="blank">
+  <a href="https://www.instagram.com/armstersaha/?hl=en" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/armster/" target="blank">
+  <a href="https://leetcode.com/u/armster/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/armster/" target="blank">
+  <a href="https://www.geeksforgeeks.org/user/armster/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
   </a>
 </p>
