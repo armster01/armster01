@@ -94,9 +94,9 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=armster01&show_icons=true&locale=en" alt="armster01" /> <hr>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armster01&" alt="armster01" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armster01&show_icons=true&locale=en&layout=compact" alt="armster01" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=armster01&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armster01" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armster01&layout=compact" alt="Top Languages" />
 </p>
 
 ---
