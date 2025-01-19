@@ -95,7 +95,7 @@
 ### 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=armster01&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=armster01&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armster01&theme=dark" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=armster01&layout=compact" alt="Top Languages" />
 </p>
 
